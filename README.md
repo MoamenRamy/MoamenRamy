@@ -7,7 +7,7 @@
 - 👨🏻‍💻 I’m Back-End Engineer.
 - ⚡️ As a Back-End Engineer, i constantly learn and explore new technologies to improve my skills.
 - 💬 Ask me about my experience with PHP, Laravel, MySQL, Python, Django or anything related to web development.
-- 📫 How to reach me: LinkedIn, gmail, Twitter.
+- 📫 How to reach me: LinkedIn and gmail.
 
 ## 🚀 Technologies & Tools
 
@@ -29,4 +29,3 @@
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/moamen-ramy-492a8b212)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter)]([https://x.com/RahmoRamy](https://x.com/RahmoRamy))
